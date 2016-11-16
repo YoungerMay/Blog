@@ -1,0 +1,39 @@
+1、注册/登录账号：https://github.com/login;
+2、创建一个代码库;
+3、鼠标右击选择"git bash here"进入git控制台;
+4、将远端仓库克隆到本地：git clone url;
+5、进入仓库：cd path;
+6、查看当前所在分支：git branch;
+7、创建自己的本地分支：git branch name;
+8、查看并切换到自己的分支：git branch;git checkout name;
+9、编写文件...;
+10、远端创建分支;
+11、本地拉取远端信息：git pull;
+12、配置用户名和密码：git config --global user.name YoungerMay;git config --global user.email youngermay@163.com;
+13、关联本地和远端分支：git push --set-upstream origin/hello_world;
+
+
+
+
+
+
+
+
+
+
+常用命令：
+	1、git help 						帮助
+	2、git clone url					将远端仓库克隆到本地
+	3、git branch						查看分支
+	4、git branch name					创建分支
+	5、git checkout name				切换分支
+	6、git pull							拉取远端信息
+	7、git config --global user.name YoungerMay
+	8、git push --set-upstream origin/hello_world
+
+
+快捷键：
+	1、ctrl+w						向前删除一个单词（word）
+	2、ctrl+insert					复制
+	3、shift+insert					粘贴
+	4、		
