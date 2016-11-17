@@ -9,8 +9,8 @@
 9、编写文件...;
 10、远端创建分支;
 11、本地拉取远端信息：git pull;
-12、配置用户名和密码：git config --global user.name YoungerMay;git config --global user.email youngermay@163.com;
-13、关联本地和远端分支：git push --set-upstream origin/hello_world;
+12、配置用户名和密码：git config --global user.name 'YoungerMay';git config --global user.email 'youngermay@163.com';
+13、关联本地和远端分支：git branch --set-upstream origin/hello_world;
 
 
 
@@ -28,8 +28,8 @@
 	4、git branch name					创建分支
 	5、git checkout name				切换分支
 	6、git pull							拉取远端信息
-	7、git config --global user.name YoungerMay
-	8、git push --set-upstream origin/hello_world
+	7、git config --global user.name 'YoungerMay'
+	8、git push --set-upstream origin/hello_world'
 
 
 快捷键：
